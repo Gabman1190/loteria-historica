@@ -1,0 +1,434 @@
+[
+  {
+    "id": 0,
+    "category": "Totalitarismos",
+    "name": "Totalitarismo",
+    "clues": [
+      "Régimen que busca controlar la política y amplios ámbitos de la vida social.",
+      "La ausencia de pluralismo y la movilización ideológica de masas caracterizan este tipo de régimen."
+    ]
+  },
+  {
+    "id": 1,
+    "category": "Totalitarismos",
+    "name": "Partido único",
+    "clues": [
+      "Sistema que excluye la competencia entre organizaciones políticas por el poder.",
+      "La organización gobernante se confunde con el Estado e impide la alternancia."
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Totalitarismos",
+    "name": "Culto al líder",
+    "clues": [
+      "Presentación del gobernante como figura excepcional e indispensable.",
+      "Retratos, ceremonias y discursos construyen una imagen idealizada de quien concentra el poder."
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Totalitarismos",
+    "name": "Propaganda política",
+    "clues": [
+      "Uso planificado de mensajes e imágenes para orientar las opiniones públicas.",
+      "Afiches, cine y radio difunden ideologías y movilizan adhesiones."
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Totalitarismos",
+    "name": "Fascismo italiano",
+    "clues": [
+      "Movimiento ultranacionalista que rechazó el liberalismo y promovió un Estado autoritario corporativo.",
+      "Se consolidó tras la Primera Guerra Mundial bajo el liderazgo de Mussolini."
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Totalitarismos",
+    "name": "Nazismo alemán",
+    "clues": [
+      "Ideología totalitaria que combinó ultranacionalismo, racismo biológico y expansionismo.",
+      "Promovió la supuesta superioridad aria y justificó conquistas territoriales."
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Totalitarismos",
+    "name": "Estalinismo",
+    "clues": [
+      "Sistema soviético de poder concentrado, represión y planificación económica centralizada.",
+      "Purgas políticas y planes quinquenales marcaron este período soviético."
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Totalitarismos",
+    "name": "Antisemitismo nazi",
+    "clues": [
+      "Prejuicio antijudío convertido en políticas estatales de exclusión y persecución.",
+      "Las leyes raciales de 1935 institucionalizaron la discriminación por ascendencia."
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Totalitarismos",
+    "name": "Espacio vital",
+    "clues": [
+      "Doctrina expansionista que justificó conquistar territorios para una supuesta comunidad racial.",
+      "Fue usada para legitimar la expansión alemana hacia Europa oriental."
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Totalitarismos",
+    "name": "Colectivización forzosa",
+    "clues": [
+      "Política soviética que reemplazó numerosas explotaciones individuales por unidades agrícolas colectivas.",
+      "Su imposición produjo resistencia rural, desorganización productiva y graves consecuencias humanas."
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Guerra Fría",
+    "name": "Bipolaridad mundial",
+    "clues": [
+      "Organización del poder internacional en torno a dos superpotencias rivales.",
+      "La influencia global se concentró en dos centros de poder con sistemas enfrentados."
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Guerra Fría",
+    "name": "Cortina de Hierro",
+    "clues": [
+      "Expresión que describe la división política e ideológica europea de posguerra.",
+      "Churchill popularizó esta metáfora para representar la separación entre Europa occidental y oriental."
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Guerra Fría",
+    "name": "OTAN",
+    "clues": [
+      "Alianza de defensa colectiva establecida en 1949 entre países norteamericanos y europeos.",
+      "Su principio de defensa mutua vinculó militarmente a democracias occidentales."
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Guerra Fría",
+    "name": "Pacto de Varsovia",
+    "clues": [
+      "Alianza militar formada en 1955 por la URSS y varios Estados socialistas europeos.",
+      "Surgió en el contexto de la incorporación de Alemania Occidental a la alianza occidental."
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Guerra Fría",
+    "name": "Plan Marshall",
+    "clues": [
+      "Programa estadounidense de asistencia para la recuperación económica europea.",
+      "Contribuyó a reconstruir economías europeas y fortalecer vínculos con Estados Unidos."
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Guerra Fría",
+    "name": "COMECON",
+    "clues": [
+      "Organización de cooperación económica entre la URSS y otros países socialistas.",
+      "Articuló relaciones comerciales y productivas dentro del bloque socialista."
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Guerra Fría",
+    "name": "Carrera armamentista",
+    "clues": [
+      "Competencia entre superpotencias por desarrollar y acumular capacidades militares.",
+      "La expansión de arsenales nucleares generó una capacidad de destrucción mutua."
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Guerra Fría",
+    "name": "Crisis de los misiles",
+    "clues": [
+      "Confrontación de 1962 por armamento nuclear soviético instalado en el Caribe.",
+      "Un bloqueo naval y negociaciones entre Kennedy y Jrushchov evitaron una escalada nuclear."
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Guerra Fría",
+    "name": "Guerra de Vietnam",
+    "clues": [
+      "Conflicto asiático con intervención extranjera en la rivalidad ideológica global.",
+      "La intervención estadounidense no impidió la reunificación bajo un gobierno comunista."
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Guerra Fría",
+    "name": "Perestroika",
+    "clues": [
+      "Reformas soviéticas para reestructurar la economía y aspectos del sistema político.",
+      "Las reformas de Gorbachov buscaron superar el estancamiento, pero contribuyeron a desestabilizar el sistema."
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Chile primera mitad",
+    "name": "Cuestión social",
+    "clues": [
+      "Problemas laborales, habitacionales y sanitarios asociados a cambios económicos y urbanos.",
+      "Las condiciones de vida obrera impulsaron demandas y respuestas estatales."
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Chile primera mitad",
+    "name": "Oligarquía",
+    "clues": [
+      "Minoría con elevada influencia económica, social y política.",
+      "Su predominio se vinculó a propiedad, redes familiares y participación restringida."
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Chile primera mitad",
+    "name": "Movimiento obrero",
+    "clues": [
+      "Organización colectiva de trabajadores para defender intereses laborales y sociales.",
+      "Huelgas, mutuales y sociedades de resistencia expresaron esta movilización."
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Chile primera mitad",
+    "name": "Democratización política",
+    "clues": [
+      "Ampliación de la participación ciudadana y los mecanismos de representación.",
+      "La incorporación de sectores excluidos transformó el electorado."
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Chile primera mitad",
+    "name": "Modelo ISI",
+    "clues": [
+      "Estrategia que impulsó producir en el país bienes antes adquiridos en el extranjero.",
+      "Las dificultades del comercio internacional favorecieron políticas para reducir importaciones manufactureras."
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Chile primera mitad",
+    "name": "Estado benefactor",
+    "clues": [
+      "Intervención pública destinada a ampliar protección social y servicios básicos.",
+      "La expansión de salud, educación y previsión expresó mayor responsabilidad estatal."
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Chile primera mitad",
+    "name": "Poblaciones callampas",
+    "clues": [
+      "Asentamientos urbanos precarios asociados a déficit habitacional y crecimiento de ciudades.",
+      "La llegada de población urbana sin viviendas suficientes favoreció estos asentamientos informales."
+    ]
+  },
+  {
+    "id": 27,
+    "category": "América Latina",
+    "name": "Populismo latinoamericano",
+    "clues": [
+      "Fenómeno político asociado a liderazgos carismáticos que movilizaron sectores populares.",
+      "La ampliación de derechos y la relación directa entre dirigentes y masas caracterizó experiencias regionales."
+    ]
+  },
+  {
+    "id": 28,
+    "category": "América Latina",
+    "name": "Revolución cubana",
+    "clues": [
+      "Proceso que terminó con el gobierno de Batista y transformó una isla caribeña.",
+      "Su acercamiento a la URSS alteró relaciones regionales con Estados Unidos."
+    ]
+  },
+  {
+    "id": 29,
+    "category": "América Latina",
+    "name": "Reforma agraria",
+    "clues": [
+      "Política destinada a modificar distribución y tenencia de la tierra.",
+      "La concentración de grandes propiedades impulsó medidas de redistribución rural."
+    ]
+  },
+  {
+    "id": 30,
+    "category": "América Latina",
+    "name": "Migración campo-ciudad",
+    "clues": [
+      "Desplazamiento desde zonas rurales hacia centros urbanos en busca de oportunidades.",
+      "Cambios agrícolas y expansión industrial contribuyeron al crecimiento urbano."
+    ]
+  },
+  {
+    "id": 31,
+    "category": "América Latina",
+    "name": "Latifundio",
+    "clues": [
+      "Propiedad rural de grandes extensiones concentradas en pocos dueños.",
+      "Su predominio se relacionó con desigual acceso a la tierra."
+    ]
+  },
+  {
+    "id": 32,
+    "category": "América Latina",
+    "name": "Dependencia económica",
+    "clues": [
+      "Vínculos económicos asimétricos con mercados y centros de decisión externos.",
+      "Exportar materias primas e importar manufacturas evidenció vulnerabilidades regionales."
+    ]
+  },
+  {
+    "id": 33,
+    "category": "América Latina",
+    "name": "Intervencionismo estadounidense",
+    "clues": [
+      "Participación e influencia de Estados Unidos en asuntos de otros países de la región.",
+      "Presiones diplomáticas y operaciones encubiertas fueron algunas manifestaciones."
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Chile 1970-1990",
+    "name": "Unidad Popular",
+    "clues": [
+      "Coalición que llegó al gobierno chileno en 1970 con un programa hacia el socialismo.",
+      "Buscó transformaciones institucionales en medio de creciente confrontación política."
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Chile 1970-1990",
+    "name": "Nacionalización del cobre",
+    "clues": [
+      "El Estado chileno asumió la propiedad de grandes explotaciones mineras estratégicas.",
+      "Una reforma constitucional de 1971 transfirió al Estado la gran minería de un recurso exportador."
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Chile 1970-1990",
+    "name": "Polarización política",
+    "clues": [
+      "Intensificación de diferencias y enfrentamientos entre sectores políticos y sociales.",
+      "La reducción de espacios de acuerdo profundizó tensiones anteriores a 1973."
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Chile 1970-1990",
+    "name": "Golpe de Estado de 1973",
+    "clues": [
+      "Ruptura del orden constitucional chileno mediante intervención de fuerzas armadas y policiales.",
+      "El derrocamiento de Allende inició un régimen militar de diecisiete años."
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Chile 1970-1990",
+    "name": "Dictadura militar",
+    "clues": [
+      "Régimen chileno de concentración del poder, supresión de libertades y represión.",
+      "Disolución del Congreso y restricciones a partidos alteraron las instituciones."
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Chile 1970-1990",
+    "name": "Neoliberalismo",
+    "clues": [
+      "Orientación económica que privilegia competencia, propiedad privada y mecanismos de mercado.",
+      "Privatizaciones, apertura comercial y liberalización transformaron el desarrollo chileno."
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Chile 1970-1990",
+    "name": "Estado subsidiario",
+    "clues": [
+      "Principio que delimita la intervención estatal y atribuye protagonismo a iniciativas privadas o sociales.",
+      "Su aplicación chilena favoreció mayor participación privada en actividades económicas y sociales."
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Chile 1970-1990",
+    "name": "Constitución de 1980",
+    "clues": [
+      "Texto constitucional aprobado en un plebiscito bajo el régimen militar sin garantías democráticas habituales.",
+      "Su diseño original estableció mecanismos que limitaron a futuras autoridades democráticas."
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Chile 1970-1990",
+    "name": "Crisis económica de 1982",
+    "clues": [
+      "Profunda contracción económica chilena acompañada de desempleo y quiebras.",
+      "Endeudamiento externo, fragilidad financiera y tipo de cambio fijo agravaron sus efectos."
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Chile 1970-1990",
+    "name": "Violaciones a los derechos humanos",
+    "clues": [
+      "Vulneraciones estatales mediante detenciones arbitrarias, torturas, ejecuciones y desapariciones.",
+      "Prácticas represivas sistemáticas fueron documentadas por comisiones de verdad."
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Retorno democrático",
+    "name": "Protestas nacionales",
+    "clues": [
+      "Movilizaciones de oposición al régimen militar durante la década de 1980.",
+      "La crisis y el descontento impulsaron manifestaciones masivas desde 1983."
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Retorno democrático",
+    "name": "Plebiscito de 1988",
+    "clues": [
+      "Consulta que determinó si Pinochet continuaría en la presidencia.",
+      "El triunfo de la opción contraria a su continuidad abrió paso a elecciones."
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Retorno democrático",
+    "name": "Transición a la democracia",
+    "clues": [
+      "Reemplazo del régimen autoritario por autoridades civiles electas.",
+      "El retorno del gobierno elegido coexistió con instituciones heredadas y restricciones."
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Retorno democrático",
+    "name": "Comisión Rettig",
+    "clues": [
+      "Organismo que investigó casos de muerte y desaparición vinculados a violaciones de derechos humanos.",
+      "Su informe de 1991 contribuyó al reconocimiento de víctimas y políticas de reparación."
+    ]
+  }
+]
