@@ -28,6 +28,17 @@ def board():
     random.shuffle(ids)
     return ids
 
+def replenish(room, concept_id, winner):
+    """Sustituye en tableros rivales el concepto que ya fue adjudicado."""
+    for team in room['teams']:
+        if team is winner or concept_id not in team['board'] or concept_id in team['won']:
+            continue
+        available = [cid for cid in BY_ID if cid not in team['board'] and cid not in room['awarded']]
+        same = [cid for cid in available if BY_ID[cid]['category'] == BY_ID[concept_id]['category']]
+        if available:
+            team['board'][team['board'].index(concept_id)] = random.choice(same or available)
+
+
 def public(room,role,team=None):
     now=time.monotonic()
     teams=[{'id':t['id'],'name':t['name'],'score':len(t['won']),'online':bool(t['ws'])} for t in room['teams']]
@@ -57,6 +68,9 @@ async def finish(room,reason='timeout',winner=None):
     if room['phase'] not in ('active','paused'):return
     room['phase']='result'
     room['result']={'reason':reason,'team':winner['name'] if winner else None,'answer':BY_ID[room['current']]['name']}
+    if winner:
+        room['awarded'].add(room['current'])
+        replenish(room, room['current'], winner)
     if winner and len(winner['won'])==12:
         room['phase']='finished';room['winner']=winner['name']
     await broadcast(room)
@@ -71,7 +85,7 @@ async def countdown(room,round_number,generation):
         await broadcast(room)
 
 def choose_clue(room):
-    eligible={i for t in room['teams'] for i in t['board'] if i not in t['won']}
+    eligible={i for t in room['teams'] for i in t['board'] if i not in t['won'] and i not in room['awarded']}
     if not eligible:return None
     # Prefer concepts not recently seen and clues not used yet; never a concept absent from all boards.
     counts={i:sum(i in t['board'] and i not in t['won'] for t in room['teams']) for i in eligible}
@@ -103,7 +117,7 @@ async def handle_teacher(room,ws,body):
         elif action=='close' and room['phase'] in ('active','paused'):await finish(room,'manual')
         elif action=='end':room['phase']='finished';room['winner']=winner_text(room)
         elif action=='reset':
-            room['phase']='lobby';room['remaining']=0;room['generation']+=1;room['round']=0;room['current']=None;room['result']=None;room['winner']=None;room['used']={};room['message']=''
+            room['phase']='lobby';room['remaining']=0;room['generation']+=1;room['round']=0;room['current']=None;room['result']=None;room['winner']=None;room['used']={};room['awarded']=set();room['message']=''
             for t in room['teams']:t['board']=board();t['won']=set();t['submitted']=False;t['lockedUntil']=0
         await broadcast(room)
 
@@ -154,7 +168,7 @@ async def websocket(ws:WebSocket):
         if mode=='create':
             roomcode=code()
             while roomcode in ROOMS:roomcode=code()
-            room={'code':roomcode,'secret':token(),'teacher':ws,'teams':[],'phase':'lobby','round':0,'current':None,'clueIndex':0,'deadline':0,'remaining':0,'generation':0,'used':{},'result':None,'winner':None,'message':'','lock':asyncio.Lock()}
+            room={'code':roomcode,'secret':token(),'teacher':ws,'teams':[],'phase':'lobby','round':0,'current':None,'clueIndex':0,'deadline':0,'remaining':0,'generation':0,'used':{},'awarded':set(),'result':None,'winner':None,'message':'','lock':asyncio.Lock()}
             ROOMS[roomcode]=room;role='teacher'
             await send(ws,{'type':'credentials','code':roomcode,'secret':room['secret'],'role':'teacher'})
         elif mode=='teacher':

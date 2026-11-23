@@ -430,5 +430,653 @@
       "Organismo que investigó casos de muerte y desaparición vinculados a violaciones de derechos humanos.",
       "Su informe de 1991 contribuyó al reconocimiento de víctimas y políticas de reparación."
     ]
+  },
+  {
+    "id": 48,
+    "category": "Totalitarismos",
+    "name": "Marcha sobre Roma",
+    "clues": [
+      "Movilización fascista que presionó el acceso de Mussolini al gobierno en 1922.",
+      "No fue una conquista militar de la capital, sino una demostración política de fuerza."
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Totalitarismos",
+    "name": "Camisas negras",
+    "clues": [
+      "Milicias fascistas que intimidaban a opositores en Italia.",
+      "Su vestimenta identificaba a grupos paramilitares vinculados a Mussolini."
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Totalitarismos",
+    "name": "Corporativismo fascista",
+    "clues": [
+      "Modelo que subordinaba organizaciones laborales y empresariales al Estado.",
+      "Pretendía reemplazar la lucha de clases por organismos controlados desde el poder."
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Totalitarismos",
+    "name": "Autarquía",
+    "clues": [
+      "Política que busca reducir la dependencia económica del exterior.",
+      "Los regímenes expansionistas la vincularon con autosuficiencia y preparación bélica."
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Totalitarismos",
+    "name": "Leyes de Núremberg",
+    "clues": [
+      "Normas nazis de 1935 que institucionalizaron la discriminación antijudía.",
+      "Restringieron ciudadanía y matrimonios con criterios raciales."
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Totalitarismos",
+    "name": "Noche de los Cristales Rotos",
+    "clues": [
+      "Ataques coordinados contra judíos y sus propiedades en noviembre de 1938.",
+      "Sinagogas y comercios fueron destruidos durante esta escalada persecutoria."
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Totalitarismos",
+    "name": "Purgas estalinistas",
+    "clues": [
+      "Represión política que eliminó a adversarios reales o supuestos de Stalin.",
+      "Juicios manipulados, encarcelamientos y ejecuciones consolidaron su poder."
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Totalitarismos",
+    "name": "Planes quinquenales",
+    "clues": [
+      "Programas soviéticos que fijaban metas estatales de producción a cinco años.",
+      "Priorizaron industrialización acelerada y planificación central."
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Totalitarismos",
+    "name": "Holocausto",
+    "clues": [
+      "Genocidio perpetrado por el régimen nazi contra los judíos europeos.",
+      "La persecución culminó en asesinatos masivos y centros de exterminio."
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Totalitarismos",
+    "name": "Juventudes Hitlerianas",
+    "clues": [
+      "Organización nazi para adoctrinar y movilizar a jóvenes alemanes.",
+      "La educación ideológica y la disciplina fueron instrumentos de socialización del régimen."
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Guerra Fría",
+    "name": "Doctrina Truman",
+    "clues": [
+      "Política estadounidense de contención anunciada en 1947.",
+      "Prometía apoyo a gobiernos amenazados por la expansión comunista."
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Guerra Fría",
+    "name": "Bloqueo de Berlín",
+    "clues": [
+      "Cierre soviético de accesos terrestres a Berlín occidental entre 1948 y 1949.",
+      "Provocó una operación aérea de abastecimiento occidental."
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Guerra Fría",
+    "name": "Puente aéreo de Berlín",
+    "clues": [
+      "Operación occidental para abastecer una ciudad aislada por tierra.",
+      "Aviones transportaron alimentos y combustible durante el bloqueo soviético."
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Guerra Fría",
+    "name": "Carrera espacial",
+    "clues": [
+      "Competencia tecnológica y simbólica entre las superpotencias.",
+      "Satélites y viajes tripulados se convirtieron en demostraciones de prestigio."
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Guerra Fría",
+    "name": "Sputnik 1",
+    "clues": [
+      "Primer satélite artificial, lanzado por la URSS en 1957.",
+      "Su puesta en órbita marcó un hito soviético en la competencia espacial."
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Guerra Fría",
+    "name": "Yuri Gagarin",
+    "clues": [
+      "Cosmonauta soviético que realizó el primer vuelo humano orbital en 1961.",
+      "Su misión reforzó el prestigio de Moscú en la carrera espacial."
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Guerra Fría",
+    "name": "Teléfono rojo",
+    "clues": [
+      "Canal directo de comunicación establecido entre Washington y Moscú en 1963.",
+      "Buscó reducir errores de comunicación tras una crisis nuclear."
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Guerra Fría",
+    "name": "Guerra de Corea",
+    "clues": [
+      "Conflicto de 1950 a 1953 que consolidó la división de una península.",
+      "Intervinieron fuerzas de la ONU lideradas por Estados Unidos y tropas chinas."
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Guerra Fría",
+    "name": "Glásnost",
+    "clues": [
+      "Política soviética de mayor apertura informativa y debate público.",
+      "Permitió visibilizar críticas antes reprimidas por el aparato estatal."
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Guerra Fría",
+    "name": "Conferencia de Yalta",
+    "clues": [
+      "Reunión de líderes aliados en febrero de 1945 para discutir la posguerra.",
+      "Roosevelt, Churchill y Stalin negociaron el futuro de Europa."
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Guerra Fría",
+    "name": "Conferencia de Potsdam",
+    "clues": [
+      "Encuentro aliado de 1945 sobre la administración de la Alemania derrotada.",
+      "Se acordaron políticas de desmilitarización y desnazificación."
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Guerra Fría",
+    "name": "Primavera de Praga",
+    "clues": [
+      "Intento reformista checoslovaco reprimido en 1968 por fuerzas del bloque soviético.",
+      "La búsqueda de un socialismo más abierto terminó con una invasión."
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Guerra Fría",
+    "name": "Revolución húngara de 1956",
+    "clues": [
+      "Levantamiento contra la dominación soviética reprimido militarmente.",
+      "Budapest fue escenario de una intervención del Ejército Rojo."
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Guerra Fría",
+    "name": "Muro de Berlín",
+    "clues": [
+      "Barrera construida en 1961 para impedir el paso desde Berlín oriental.",
+      "Su caída en 1989 simbolizó el fin de la división europea."
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Guerra Fría",
+    "name": "Doctrina Brézhnev",
+    "clues": [
+      "Postura soviética que justificaba intervenir en países socialistas aliados.",
+      "Limitó la soberanía del bloque oriental en nombre de preservar el socialismo."
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Chile primera mitad",
+    "name": "Conventillo",
+    "clues": [
+      "Vivienda colectiva urbana asociada al hacinamiento popular.",
+      "Varias familias compartían patios y servicios sanitarios insuficientes."
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Chile primera mitad",
+    "name": "Mancomunales",
+    "clues": [
+      "Organizaciones obreras chilenas de ayuda mutua y reivindicación social.",
+      "Articularon solidaridad y movilización laboral a comienzos del siglo XX."
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Chile primera mitad",
+    "name": "FOCH",
+    "clues": [
+      "Federación Obrera de Chile, organización sindical de alcance nacional.",
+      "Se vinculó con la articulación del movimiento de trabajadores."
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Chile primera mitad",
+    "name": "Ley de Instrucción Primaria Obligatoria",
+    "clues": [
+      "Norma chilena de 1920 que amplió la obligatoriedad escolar.",
+      "Buscó extender la educación básica como responsabilidad pública."
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Chile primera mitad",
+    "name": "Constitución de 1925",
+    "clues": [
+      "Carta fundamental que reforzó el presidencialismo en Chile.",
+      "Puso fin al régimen parlamentario de facto y separó Iglesia y Estado."
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Chile primera mitad",
+    "name": "Estado docente",
+    "clues": [
+      "Principio que asigna al Estado un papel central en la educación.",
+      "Se expresa en la expansión de establecimientos y políticas educativas públicas."
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Chile primera mitad",
+    "name": "Matanza de la Escuela Santa María",
+    "clues": [
+      "Represión de trabajadores salitreros en Iquique en 1907.",
+      "Una huelga terminó con una matanza en un establecimiento escolar."
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Chile primera mitad",
+    "name": "Parlamentarismo chileno",
+    "clues": [
+      "Etapa de predominio congresista y rotación ministerial entre 1891 y 1925.",
+      "Las prácticas políticas debilitaron la autoridad presidencial."
+    ]
+  },
+  {
+    "id": 81,
+    "category": "América Latina",
+    "name": "Peronismo",
+    "clues": [
+      "Movimiento político argentino asociado al liderazgo de Juan Domingo Perón.",
+      "Articuló sindicatos, derechos laborales y un fuerte liderazgo presidencial."
+    ]
+  },
+  {
+    "id": 82,
+    "category": "América Latina",
+    "name": "Getúlio Vargas",
+    "clues": [
+      "Dirigente brasileño vinculado a industrialización y legislación laboral.",
+      "Encabezó etapas autoritarias y gobiernos con apoyo de sectores populares."
+    ]
+  },
+  {
+    "id": 83,
+    "category": "América Latina",
+    "name": "Alianza para el Progreso",
+    "clues": [
+      "Programa estadounidense de cooperación con América Latina lanzado en 1961.",
+      "Promovió reformas y desarrollo en el contexto de la Guerra Fría."
+    ]
+  },
+  {
+    "id": 84,
+    "category": "América Latina",
+    "name": "Teología de la liberación",
+    "clues": [
+      "Corriente cristiana latinoamericana centrada en pobreza y justicia social.",
+      "Vinculó reflexión religiosa con las condiciones de los sectores excluidos."
+    ]
+  },
+  {
+    "id": 85,
+    "category": "América Latina",
+    "name": "Doctrina de Seguridad Nacional",
+    "clues": [
+      "Enfoque militar que identificó amenazas internas con el comunismo.",
+      "Fue utilizado para justificar represión política durante dictaduras regionales."
+    ]
+  },
+  {
+    "id": 86,
+    "category": "América Latina",
+    "name": "Operación Cóndor",
+    "clues": [
+      "Coordinación represiva transnacional entre dictaduras sudamericanas.",
+      "Servicios de inteligencia colaboraron para perseguir opositores más allá de fronteras."
+    ]
+  },
+  {
+    "id": 87,
+    "category": "América Latina",
+    "name": "CEPAL",
+    "clues": [
+      "Organismo regional de la ONU dedicado al análisis económico latinoamericano.",
+      "Sus estudios destacaron desigualdades entre centro y periferia."
+    ]
+  },
+  {
+    "id": 88,
+    "category": "América Latina",
+    "name": "Revolución sandinista",
+    "clues": [
+      "Proceso que derrocó a la dictadura somocista en Nicaragua en 1979.",
+      "Un movimiento guerrillero llegó al poder en Centroamérica."
+    ]
+  },
+  {
+    "id": 89,
+    "category": "América Latina",
+    "name": "Revolución mexicana",
+    "clues": [
+      "Proceso iniciado en 1910 contra el régimen de Porfirio Díaz.",
+      "Articuló demandas agrarias y disputas por el poder político."
+    ]
+  },
+  {
+    "id": 90,
+    "category": "América Latina",
+    "name": "Movimiento de Países No Alineados",
+    "clues": [
+      "Agrupación de Estados que buscó autonomía frente a los dos bloques.",
+      "Su origen se relaciona con la descolonización y la Conferencia de Bandung."
+    ]
+  },
+  {
+    "id": 91,
+    "category": "América Latina",
+    "name": "Conferencia de Bandung",
+    "clues": [
+      "Encuentro afroasiático de 1955 vinculado al anticolonialismo.",
+      "Países recientemente independientes debatieron cooperación y autonomía."
+    ]
+  },
+  {
+    "id": 92,
+    "category": "América Latina",
+    "name": "Revolución boliviana de 1952",
+    "clues": [
+      "Proceso que impulsó sufragio universal, reforma agraria y nacionalizaciones.",
+      "El MNR lideró transformaciones profundas en Bolivia."
+    ]
+  },
+  {
+    "id": 93,
+    "category": "América Latina",
+    "name": "Industrialización por sustitución de importaciones",
+    "clues": [
+      "Estrategia que buscó producir internamente bienes antes importados.",
+      "Utilizó protección e intervención estatal para fomentar industrias nacionales."
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Chile 1970-1990",
+    "name": "Área de propiedad social",
+    "clues": [
+      "Sector económico de empresas bajo control estatal promovido por la UP.",
+      "Buscó ampliar la participación pública en actividades productivas estratégicas."
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Chile 1970-1990",
+    "name": "Desabastecimiento",
+    "clues": [
+      "Escasez de bienes en circuitos comerciales.",
+      "Filas y dificultades de suministro marcaron la crisis económica previa al golpe."
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Chile 1970-1990",
+    "name": "Junta Militar",
+    "clues": [
+      "Órgano que concentró el poder tras el golpe de 1973.",
+      "Estuvo integrado por comandantes de las Fuerzas Armadas y el general director de Carabineros."
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Chile 1970-1990",
+    "name": "DINA",
+    "clues": [
+      "Organismo de inteligencia y represión de la dictadura creado en 1974.",
+      "Su actuación incluyó persecución política y graves violaciones a derechos humanos."
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Chile 1970-1990",
+    "name": "CNI",
+    "clues": [
+      "Organismo de inteligencia que reemplazó a la DINA en 1977.",
+      "Operó durante la dictadura y participó en acciones represivas."
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Chile 1970-1990",
+    "name": "Detención y desaparición forzada",
+    "clues": [
+      "Privación de libertad seguida de ocultamiento de la suerte o paradero.",
+      "Familiares denunciaron víctimas cuyo destino se ocultó."
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Chile 1970-1990",
+    "name": "Exilio político",
+    "clues": [
+      "Salida forzada o condicionada del país por persecución política.",
+      "Miles de chilenos debieron vivir en el extranjero durante la dictadura."
+    ]
+  },
+  {
+    "id": 101,
+    "category": "Chile 1970-1990",
+    "name": "Chicago Boys",
+    "clues": [
+      "Economistas asociados a reformas de libre mercado aplicadas durante la dictadura.",
+      "Promovieron privatizaciones, apertura comercial y reducción del papel productor del Estado."
+    ]
+  },
+  {
+    "id": 102,
+    "category": "Chile 1970-1990",
+    "name": "Protestas nacionales de 1983",
+    "clues": [
+      "Movilizaciones sociales contra la dictadura iniciadas en mayo de 1983.",
+      "Cacerolazos y manifestaciones expresaron rechazo al régimen militar."
+    ]
+  },
+  {
+    "id": 103,
+    "category": "Chile 1970-1990",
+    "name": "Cordones industriales",
+    "clues": [
+      "Organizaciones de trabajadores que coordinaron fábricas durante la UP.",
+      "Surgieron como espacios de movilización obrera y defensa de la producción."
+    ]
+  },
+  {
+    "id": 104,
+    "category": "Chile 1970-1990",
+    "name": "Paro de camioneros de 1972",
+    "clues": [
+      "Movilización del transporte que agravó conflictos de abastecimiento.",
+      "La paralización de rutas tuvo impacto político y económico bajo la UP."
+    ]
+  },
+  {
+    "id": 105,
+    "category": "Chile 1970-1990",
+    "name": "Plan Laboral de 1979",
+    "clues": [
+      "Reforma normativa que transformó las relaciones laborales bajo la dictadura.",
+      "Reorganizó la negociación colectiva y el funcionamiento sindical."
+    ]
+  },
+  {
+    "id": 106,
+    "category": "Chile 1970-1990",
+    "name": "Privatización de empresas",
+    "clues": [
+      "Transferencia de empresas públicas a propietarios privados.",
+      "Fue un componente relevante de las reformas económicas de la dictadura."
+    ]
+  },
+  {
+    "id": 107,
+    "category": "Chile 1970-1990",
+    "name": "Apertura comercial",
+    "clues": [
+      "Reducción de barreras a las importaciones y al intercambio internacional.",
+      "La competencia externa transformó la estructura productiva chilena."
+    ]
+  },
+  {
+    "id": 108,
+    "category": "Chile 1970-1990",
+    "name": "Intervención bancaria de 1983",
+    "clues": [
+      "Acción estatal sobre entidades financieras durante la crisis económica.",
+      "La insolvencia de bancos llevó a medidas extraordinarias de rescate y control."
+    ]
+  },
+  {
+    "id": 109,
+    "category": "Retorno democrático",
+    "name": "Campaña del No",
+    "clues": [
+      "Movilización electoral opositora en el plebiscito de 1988.",
+      "Utilizó una franja televisiva recordada por su mensaje de esperanza."
+    ]
+  },
+  {
+    "id": 110,
+    "category": "Retorno democrático",
+    "name": "Concertación de Partidos por la Democracia",
+    "clues": [
+      "Coalición opositora que respaldó el No y gobernó desde 1990.",
+      "Reunió partidos de centro e izquierda en torno a una transición institucional."
+    ]
+  },
+  {
+    "id": 111,
+    "category": "Retorno democrático",
+    "name": "Patricio Aylwin",
+    "clues": [
+      "Presidente que asumió en marzo de 1990 tras la dictadura.",
+      "Encabezó el primer gobierno elegido democráticamente después del régimen militar."
+    ]
+  },
+  {
+    "id": 112,
+    "category": "Retorno democrático",
+    "name": "Informe Rettig",
+    "clues": [
+      "Documento de 1991 sobre víctimas de violaciones a derechos humanos.",
+      "Recogió conclusiones de una comisión de verdad durante la transición."
+    ]
+  },
+  {
+    "id": 113,
+    "category": "Retorno democrático",
+    "name": "Enclaves autoritarios",
+    "clues": [
+      "Mecanismos institucionales heredados que limitaron la democracia posdictatorial.",
+      "Incluyeron restricciones a la representación y a la autoridad civil."
+    ]
+  },
+  {
+    "id": 114,
+    "category": "Retorno democrático",
+    "name": "Senadores designados",
+    "clues": [
+      "Integrantes de la Cámara Alta que no llegaban por elección popular.",
+      "Su existencia fue una limitación de la representación democrática en la transición."
+    ]
+  },
+  {
+    "id": 115,
+    "category": "Retorno democrático",
+    "name": "Reformas constitucionales de 1989",
+    "clues": [
+      "Modificaciones aprobadas antes del retorno a gobiernos elegidos.",
+      "Fueron negociadas y sometidas a plebiscito durante la apertura política."
+    ]
+  },
+  {
+    "id": 116,
+    "category": "Retorno democrático",
+    "name": "Justicia transicional",
+    "clues": [
+      "Medidas para abordar violaciones a derechos humanos tras un régimen autoritario.",
+      "Incluye verdad, justicia, reparación y garantías de no repetición."
+    ]
+  },
+  {
+    "id": 117,
+    "category": "Retorno democrático",
+    "name": "Comisión Valech",
+    "clues": [
+      "Comisión chilena que documentó prisión política y tortura.",
+      "Su trabajo amplió el reconocimiento oficial de víctimas de represión."
+    ]
+  },
+  {
+    "id": 118,
+    "category": "Retorno democrático",
+    "name": "Elecciones presidenciales de 1989",
+    "clues": [
+      "Comicios que permitieron elegir al primer presidente posdictadura.",
+      "El triunfo de Aylwin antecedió el cambio de mando de marzo de 1990."
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Retorno democrático",
+    "name": "Reforma constitucional de 2005",
+    "clues": [
+      "Cambio que eliminó senadores designados y otros enclaves institucionales.",
+      "Durante el gobierno de Lagos se modificaron aspectos heredados de 1980."
+    ]
   }
 ]
